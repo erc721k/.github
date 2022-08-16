@@ -17,3 +17,8 @@ Periphery
 Streams
 - [ENSStream](https://github.com/erc721k/labs/blob/main/contracts/erc721k-streams-sol/contracts/StreamENS.sol)
 - [IStream](https://github.com/erc721k/labs/blob/main/contracts/erc721k-streams-sol/contracts/interfaces/IStream.sol)
+
+
+## Credit
+
+The smart contacts are only possible from the work by https://twitter.com/w1nt3r_eth with ground-breaking working on a low-level `svg` library.
