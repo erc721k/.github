@@ -21,7 +21,7 @@ Streams
 
 ## Credit
 
-### w1nt3r_eth (https://twitter.com/w1nt3r_eth(
+### w1nt3r_eth (https://twitter.com/w1nt3r_eth)
 
 The `svg` library powering the dynamic SVG composition was written by `w1nt3r_eth`. 
 
