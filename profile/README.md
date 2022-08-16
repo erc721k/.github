@@ -21,4 +21,6 @@ Streams
 
 ## Credit
 
-The smart contacts are only possible from the work by https://twitter.com/w1nt3r_eth with ground-breaking working on a low-level `svg` library.
+- https://twitter.com/w1nt3r_eth 
+
+The `svg` library powering the dynamic SVG composition was written by `w1nt3r_eth`. The project would not be possible without the ground-breaking work to simplify dynamic SVG generation. 
