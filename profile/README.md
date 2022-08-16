@@ -27,7 +27,7 @@ The `svg` library powering the dynamic SVG composition was written by `w1nt3r_et
 
 The project would not be possible without the ground-breaking work to simplify dynamic SVG generation. 
 
-## Producion Demo
+## Mainnet dApp using experimental contacts
 
 https://www.enouns.art/
 
