@@ -33,6 +33,7 @@ https://www.enouns.art/
 
 https://opensea.io/collection/enouns
 
+- ENouns: 0x5879eb56dcff53095781aa1f4b5eb0d325960360
 - ENounsRender: 0xd597CbDCc7ab73B9a8B0c1627f435e19Fd302d93
 - EnounsStorage: 0x0A3895005C766DBF9c3aef8c953a156F4a0A0988
 - ENounsTraits: 0x7F7f856cD1B2B36a4E4bFf3a1e89Df88E919F577
